@@ -1,1 +1,1 @@
-# arduino-fire-alarm
+Hello and welcome to my technology project, where I will be creating a fire prevention and protection system all code and circuit schematics can be found on this repositoy I hope you find this helpfull and find some code that might interest you! Goodbye and may the code be with you.
